@@ -4,7 +4,7 @@
 MTech faced significant scrap costs and operational inefficiencies in steel component production due to undetected insert breakage during grooving operations. The lack of an automated detection system forced reliance on manual inspections, where operators visually checked for damage and halted the lathes to prevent further defective parts. This process not only led to high labor costs but also resulted in premature tool wear, limiting productivity and increasing overall production costs. The challenge was to eliminate scrap, reduce labor dependency, and extend tool life by implementing a more efficient and automated solution.
 
 <h2> Solution:</h2>
-Implement WattPilote load monitor and software to abnormal torques on the tools in the process and automatically stop the lathe for immediate correction. This allows MTech to detect low/high torque changes during operation, which are indicative of issues like a grooving insert chipping or breaking, thereby eliminating the need for manual oversight and preventing scrap. 
+Implement WattPilote load monitor and software to detect abnormal torques on the tools in the process and automatically stop the lathe for immediate correction. This allows MTech to detect low/high torque changes during operation, which are indicative of issues like a grooving insert chipping or breaking, thereby eliminating the need for manual oversight and preventing scrap. 
 
 1. Working Principle: The load monitor software EMAG is integrated with sensors that measure the torque or cutting force acting on the tool during the machining process. The system continuously measures the mechanical load on the tool. These measurements provide real-time data on the force exerted during the operation.
 2. Real-Time Data Analysis: The software analyzes the data gathered from the load sensors, detecting any variations or anomalies in the forces exerted on the tool. These variations can indicate potential problems such as: Insert breakage, tool wear, unexpected tool engagement issues. The software is designed to identify these deviations quickly and provide alerts.
@@ -12,6 +12,9 @@ Implement WattPilote load monitor and software to abnormal torques on the tools 
 <p align="center">
 <br/>
 <img src="https://imgur.com/p1vv3DR.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<br/>
+<img src="https://imgur.com/8htK8jn.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 <h2> Key Benifits & Improvements:</h2>
