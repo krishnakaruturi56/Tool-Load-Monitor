@@ -10,6 +10,10 @@ Implement WattPilote load monitor and software to abnormal torques on the tools 
 2. Real-Time Data Analysis: The software analyzes the data gathered from the load sensors, detecting any variations or anomalies in the forces exerted on the tool. These variations can indicate potential problems such as: Insert breakage, tool wear, unexpected tool engagement issues. The software is designed to identify these deviations quickly and provide alerts.
 3. Automated Response: The load monitoring system is integrated with the machine's control system, enabling automated responses. If the system detects an issue, it can stop the machine automatically, preventing further damage and scrap production. In some cases, the software can send a notification for manual intervention or prompt a tool change based on wear predictions.
 
+<p align="center">
+<br/>
+<img src="https://imgur.com/c7ThVxl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 <h2> Key Benifits & Improvements:</h2>
 
@@ -17,4 +21,8 @@ Implement WattPilote load monitor and software to abnormal torques on the tools 
 - <b>Extended Tool Life: Predictive tool change capabilities have led to a 25% increase in insert life for half of the inserts, reducing overall tool replacement costs.</b>
 - <b>Labor Savings: Elimination of manual inspection removes the need for inspection operators</b>
 - <b>Improved Operational Efficiency: Real-time detection and stoppage of the lathe increases production efficiency.</b>
+
+
+
+
 
